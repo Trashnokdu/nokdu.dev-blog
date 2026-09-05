@@ -47,8 +47,8 @@ importers:
         specifier: 19.2.15
         version: 19.2.15
       '@types/react-dom':
-        specifier: 19.2.3
-        version: 19.2.3(@types/react@19.2.15)
+        specifier: 19.2.7
+        version: 19.2.7(@types/react@19.2.15)
       typescript:
         specifier: 5.9.2
         version: 5.9.2
@@ -74,8 +74,8 @@ importers:
         specifier: 19.2.15
         version: 19.2.15
       '@types/react-dom':
-        specifier: 19.2.3
-        version: 19.2.3(@types/react@19.2.15)
+        specifier: 19.2.7
+        version: 19.2.7(@types/react@19.2.15)
       typescript:
         specifier: 5.9.2
         version: 5.9.2
@@ -362,8 +362,8 @@ packages:
   '@types/node@22.15.3':
     resolution: {integrity: sha512-lX7HFZeHf4QG/J7tBZqrCAXwz9J5RD56Y6MpP0eJkka8p+K0RY/yBTW7CYFJ4VGCclxqOLKmiGP5juQc6MKgcw==}
 
-  '@types/react-dom@19.2.3':
-    resolution: {integrity: sha512-jp2L/eY6fn+KgVVQAOqYItbF0VY/YApe5Mz2F0aykSO8gx31bYCZyvSeYxCHKvzHG5eZjc+zyaS5BrBWya2+kQ==}
+  '@types/react-dom@19.2.7':
+    resolution: {integrity: sha512-I8bPpDLcHBv1qiIiXDCy71Rt8eQDKJP0sMSWJphDdAcdqiJ1sGpZamavoEIRZmYzjia9LuEb2HlYdDpmoENpvQ==}
     peerDependencies:
       '@types/react': ^19.2.0
 
@@ -670,7 +670,7 @@ snapshots:
     dependencies:
       undici-types: 6.21.0
 
-  '@types/react-dom@19.2.3(@types/react@19.2.15)':
+  '@types/react-dom@19.2.7(@types/react@19.2.15)':
     dependencies:
       '@types/react': 19.2.15
 
